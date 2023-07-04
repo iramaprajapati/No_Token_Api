@@ -1,6 +1,6 @@
 # no_token_api
 
-A new Flutter project.
+A new Flutter project. Test project to practice API integration without any token.
 
 ## Getting Started
 
